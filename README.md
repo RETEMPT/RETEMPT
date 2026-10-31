@@ -1,8 +1,8 @@
 <p align="center">
   <a href="#about">
     <picture>
-      <source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/RETEMPT/RETEMPT/main/header-mobile.svg?v=ce9cf4f3910b" />
-      <img src="https://raw.githubusercontent.com/RETEMPT/RETEMPT/main/header.svg?v=ce9cf4f3910b" width="100%" alt="aVLk 的灵感手记 / RETEMPT — 厦门大学。把想法，做成日常。" />
+      <source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/RETEMPT/RETEMPT/main/header-mobile.svg?v=9f8f3ac1b704" />
+      <img src="https://raw.githubusercontent.com/RETEMPT/RETEMPT/main/header.svg?v=9f8f3ac1b704" width="100%" alt="AVLk / RETEMPT — 厦门大学。用代码回应好奇，用耐心打磨细节。" />
     </picture>
   </a>
 </p>
@@ -13,7 +13,7 @@
 <h3 align="center">✦ 关于我 / About</h3>
 
 <p align="center">
-  <strong>aVLk</strong> &nbsp;·&nbsp; 厦门大学 / Xiamen University
+  <strong>AVLk</strong> &nbsp;·&nbsp; 厦门大学 / Xiamen University
 </p>
 
 <p align="center">
@@ -25,8 +25,8 @@
 
 <p align="center">
   <picture>
-    <source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/RETEMPT/RETEMPT/main/focus-mobile.svg?v=ce9cf4f3910b" />
-    <img src="https://raw.githubusercontent.com/RETEMPT/RETEMPT/main/focus.svg?v=ce9cf4f3910b" width="100%" alt="所学与所爱 — Web: TypeScript, React, Next.js, Tailwind CSS. HarmonyOS: ArkTS, ArkUI. Desktop: Electron, Node.js, PostgreSQL. Tools: Git, Docker, Linux, Figma." />
+    <source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/RETEMPT/RETEMPT/main/focus-mobile.svg?v=9f8f3ac1b704" />
+    <img src="https://raw.githubusercontent.com/RETEMPT/RETEMPT/main/focus.svg?v=9f8f3ac1b704" width="100%" alt="所学与所爱 — Web: TypeScript, React, Next.js, Tailwind CSS. HarmonyOS: ArkTS, ArkUI. Desktop: Electron, Node.js, PostgreSQL. Tools: Git, Docker, Linux, Figma." />
   </picture>
 </p>
 
@@ -37,7 +37,3 @@
   <a href="https://github.com/RETEMPT">GitHub</a>
 </p>
 
-<p align="center">
-  <sub>边学边做，也为每一次改进留一点耐心。</sub><br />
-  <sub>© RETEMPT / aVLk</sub>
-</p>
