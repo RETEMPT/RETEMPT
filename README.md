@@ -1,8 +1,8 @@
 <p align="center">
   <a href="#about">
     <picture>
-      <source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/RETEMPT/RETEMPT/main/header-mobile.svg?v=6bb5b1d47c08" />
-      <img src="https://raw.githubusercontent.com/RETEMPT/RETEMPT/main/header.svg?v=6bb5b1d47c08" width="100%" alt="aVLk の花庭 / RETEMPT — 厦门大学。好奇心，慢慢开花。" />
+      <source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/RETEMPT/RETEMPT/main/header-mobile.svg?v=ce9cf4f3910b" />
+      <img src="https://raw.githubusercontent.com/RETEMPT/RETEMPT/main/header.svg?v=ce9cf4f3910b" width="100%" alt="aVLk 的灵感手记 / RETEMPT — 厦门大学。把想法，做成日常。" />
     </picture>
   </a>
 </p>
@@ -17,16 +17,16 @@
 </p>
 
 <p align="center">
-  喜欢把想法做成易用、可靠的软件。<br />
-  在 Web、HarmonyOS 与桌面应用开发中持续学习，关注交互细节与工程质量。
+  在学习中积累，在实践中找到自己的节奏。<br />
+  关注 Web、HarmonyOS 与桌面开发，喜欢清楚的表达、顺手的交互和经得起推敲的实现。
 </p>
 
 <br />
 
 <p align="center">
   <picture>
-    <source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/RETEMPT/RETEMPT/main/focus-mobile.svg?v=6bb5b1d47c08" />
-    <img src="https://raw.githubusercontent.com/RETEMPT/RETEMPT/main/focus.svg?v=6bb5b1d47c08" width="100%" alt="所学与所爱 — Web: TypeScript, React, Next.js, Tailwind CSS. HarmonyOS: ArkTS, ArkUI. Desktop: Electron, Node.js, PostgreSQL. Tools: Git, Docker, Linux, Figma." />
+    <source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/RETEMPT/RETEMPT/main/focus-mobile.svg?v=ce9cf4f3910b" />
+    <img src="https://raw.githubusercontent.com/RETEMPT/RETEMPT/main/focus.svg?v=ce9cf4f3910b" width="100%" alt="所学与所爱 — Web: TypeScript, React, Next.js, Tailwind CSS. HarmonyOS: ArkTS, ArkUI. Desktop: Electron, Node.js, PostgreSQL. Tools: Git, Docker, Linux, Figma." />
   </picture>
 </p>
 
@@ -38,6 +38,6 @@
 </p>
 
 <p align="center">
-  <sub>把想法写进代码，把细节留给耐心。</sub><br />
+  <sub>边学边做，也为每一次改进留一点耐心。</sub><br />
   <sub>© RETEMPT / aVLk</sub>
 </p>
